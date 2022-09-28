@@ -6,11 +6,11 @@ const Frase = () => {
         <Container>
             <Card>
                 <Row>
-                    <Col xs={4}> 
+                    <Col md={4}> 
                     <Card.Img variant="start" src="https://trello.com/1/cards/6328e276517f8e0208590f76/attachments/632b887c5d55fc04a2c53b56/previews/632b887d5d55fc04a2c53b5d/download/image.png">
                     </Card.Img>
                     </Col>
-                    <Col xs={8}>
+                    <Col md={8}>
                         <Card.Body>
                             <Card.Title>
                                 Homero Simpsons
